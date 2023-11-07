@@ -2,11 +2,11 @@
 
 # Asian Horror Movies
 
-> ### These are some of my favorite asian horror films, and I'll be giving my review and rating (on a scale of 1 - 10, 1 being do not watch, and 10 being must watch) for each movie.
+> ### These are some of my favorite Asian horror films, and I'll be giving my review and rating (on a scale of 1 - 10, 1 being do not watch, and 10 being must watch) for each movie.
 
 ## Japanese Horror Movies
 
-![Pulse Film Cover](./src/images/Kairo_Japanese_film_poster.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/en/6/6f/Kairo_Japanese_film_poster.jpg" alt="Pulse">
 
 - ### Pulse (Kairo 2001)
 
@@ -18,11 +18,15 @@
 
 - ### Oldboy (2003)
 
+<img src='https://www.themoviedb.org/t/p/original/kKMuZ5hOXSbesbM1Ba1hGugJEro.jpg' alt='Oldboy' height=300>
+
 > Review: Oldboy begins with the main character, Oh Dae-su, in a drunk state being obnoxious and waiting for his friend at the police station after being arrested. Oh Dae-su is then mysteriously imprisoned for 15 years in a sealed hotel room only to be fed the same food every day, and keeping a tv as the only form of entertainment. One day, he is freed, but he is given clues to find who kept him prisoner for so long, and their reason for choosing Oh Dae-su. This film is timeless and has a thrilling story with a horrific ending, from beginning to end this movie is worth watching especially its one-shot corridor fight scene and ending, truly an influential movie.
 
 > Rating: 10/10
 
 ## Chinese Horror Movies
+
+<img src="https://upload.wikimedia.org/wikipedia/en/3/3d/Dumplings_%28Chinese_poster%29.jpg" alt="Dumplings" height=300>
 
 - ### Dumplings (2004)
 
